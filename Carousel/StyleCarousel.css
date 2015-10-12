@@ -1,0 +1,28 @@
+.carousel {
+  position: relative;
+  padding: 10px 40px ;
+  border: 1px solid #CCC;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+.gallery {
+  overflow: hidden;
+}
+
+ul {
+  width: 9999px;
+  margin: 0px;
+  padding: 0;
+  list-style: none;
+  transition: margin-left 650ms;
+  font-size: 0;
+}
+
+li {
+  margin: 0px 10px;
+  display: inline-block;
+  border: 0px solid;
+  
+}
+
